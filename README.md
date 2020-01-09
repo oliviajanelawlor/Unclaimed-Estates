@@ -1,6 +1,6 @@
 # Unclaimed estates in the Birmingham
 
-**Here is the data on unclaimed estates in Birmingham.
+**Here is the data on unclaimed estates in Birmingham.**
 
 Birmingham has the third-highest number of unclaimed estates in the country with 217. 
 
